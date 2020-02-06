@@ -52,7 +52,7 @@ def calc_cost(i, j, T, str_A, str_B, sm, gp):
 #    upper = 
 
 
-#Question 1
+#Question 11111
 #String A and B
 #string_A = "AATAAT"
 #string_B = "AAGG"
